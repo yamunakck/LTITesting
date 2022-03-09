@@ -1,6 +1,9 @@
 public class TestScript1 {
 @Test
 public void TC1() {
-System.out.println("TestCase1");
+System.out.println("TestCase1-Register");
+}
+public void TC2() {
+System.out.println("TestCase1-Login");
 }
 }
